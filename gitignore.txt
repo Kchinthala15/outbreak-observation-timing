@@ -1,0 +1,13 @@
+# Data — download from Zenodo 10.5281/zenodo.6104188, do not commit
+data/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
